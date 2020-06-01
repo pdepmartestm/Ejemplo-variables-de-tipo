@@ -1,2 +1,4 @@
-# Ejemplo-variables-de-tipo
-ejemplo de clase
+# Variables de tipo
+
+Ejemplo de clase
+
